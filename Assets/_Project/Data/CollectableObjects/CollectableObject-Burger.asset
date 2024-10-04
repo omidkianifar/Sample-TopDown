@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6dbb489868dbd245a9f3d2b0b455bba, type: 3}
+  m_Name: CollectableObject-Burger
+  m_EditorClassIdentifier: 
+  _name: Burger
+  _category: 2
+  _description: 
+  _size: 1
+  _icon: {fileID: 21300000, guid: da6e37083984ce04da2debd91a9e556f, type: 3}
+  _prefab: {fileID: 2650690559077510440, guid: cff631b005b811944a846f281776d825, type: 3}

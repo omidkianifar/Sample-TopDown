@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6dbb489868dbd245a9f3d2b0b455bba, type: 3}
+  m_Name: CollectableObject-Bread
+  m_EditorClassIdentifier: 
+  _name: Bread
+  _category: 2
+  _description: 
+  _size: 1
+  _icon: {fileID: 21300000, guid: 34b1190061ece5f45a1c4917a7045253, type: 3}
+  _prefab: {fileID: 4866088214411290974, guid: d6846055e97b9ac42a6e11a3ea4f1237, type: 3}
